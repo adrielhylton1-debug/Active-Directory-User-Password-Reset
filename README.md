@@ -1,7 +1,7 @@
 # Active-Directory-User-Password-Reset
 Practice resetting passwords and managing account lockouts in Active Directory
 
-**Watch me build this lab here!** [https://www.loom.com/share/PASTE_LOOM_LINK_HERE](https://www.loom.com/share/e68e166e65bc459aaa907bcc4ae06e1b)
+**Watch me build this lab here!** [**Watch me build this lab here!**](https://www.loom.com/share/e68e166e65bc459aaa907bcc4ae06e1b)
 
 Practice resetting passwords and managing account lockouts in Active Directory.
 
